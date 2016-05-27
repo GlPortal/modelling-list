@@ -1,6 +1,6 @@
 # Modelling List
 - Door
 - Desk
-- Sign
+- Exit Sign
 - Light fixture
 - Wall Texture
