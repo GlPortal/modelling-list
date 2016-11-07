@@ -1,8 +1,8 @@
 # Modelling List
-- Door
+- Office Door
 - Simple Wood Door
 - Simple Steel Door
-- Desk
+- Office Desk
 - Exit Sign
 - Light fixture
 - Wall Texture
